@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 
 import java.util.ArrayList;
 import java.util.Arrays;

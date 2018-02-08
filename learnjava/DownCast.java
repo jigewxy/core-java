@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 
 class Parent{ }
 

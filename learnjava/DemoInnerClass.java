@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 
 interface Car{
    void speed();

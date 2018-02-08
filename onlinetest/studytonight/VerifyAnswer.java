@@ -1,4 +1,4 @@
-package onlinetest.studytonight;
+package corejava.onlinetest.studytonight;
 
 public class VerifyAnswer {
 

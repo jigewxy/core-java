@@ -1,4 +1,4 @@
-package learnjdbc;
+package corejava.learnjdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

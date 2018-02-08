@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 import java.lang.reflect.*;
 
 public class DemoReflection

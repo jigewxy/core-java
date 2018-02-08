@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 
 public class DemoDog {
     public static void main(String[] args){

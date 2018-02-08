@@ -1,5 +1,5 @@
 
-package learnjava;
+package corejava.learnjava;
 
 public class Aggregation {
 

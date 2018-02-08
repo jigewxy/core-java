@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 
 import java.util.regex.Pattern;
 import java.util.Arrays;

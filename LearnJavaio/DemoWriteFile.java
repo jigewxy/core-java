@@ -1,4 +1,4 @@
-package LearnJavaio;
+package corejava.LearnJavaio;
 import java.io.*;
 
 public class DemoWriteFile {

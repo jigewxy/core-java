@@ -1,5 +1,5 @@
+package corejava;
 import java.util.ArrayList;
-import learnjava.*;
 
 public class Fibbon {
 
@@ -21,12 +21,6 @@ public class Fibbon {
     public static void main(String[] args){
 
         ArrayList <Integer> result = new ArrayList<Integer> ();
-
-        Dog mydog = new Dog("Labrado", "hero");
-
-        mydog.speak();
-        mydog.showDetails();
-
 
         for (int i=0; i<=10;i++)
         {

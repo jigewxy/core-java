@@ -1,4 +1,4 @@
-package com.company;
+package corejava.com.company;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package learnrmi;
+package corejava.learnrmi;
 
 import java.rmi.*;
 public class Client{

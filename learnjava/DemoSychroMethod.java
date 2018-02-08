@@ -1,4 +1,4 @@
-package learnjava;
+package corejava.learnjava;
 
 
 // synchronized method will make sure the Object is accessed by one function only, to avoid racing condition.
